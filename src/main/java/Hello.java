@@ -3,6 +3,8 @@ public class Hello {
         System.out.println("Hello world");
         System.out.println("avatar");
         System.out.println("nice");
-        System.out.println("nice");
+        System.out.println("2");
+        System.out.println("3");
+        System.out.println("4");
     }
 }
