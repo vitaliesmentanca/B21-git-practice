@@ -3,6 +3,7 @@ public class Hello {
         System.out.println("Hello world b22");
         System.out.println("Hello world b22");
         System.out.println("Hello world b2");
+        System.out.println("Hello world b2");
 
     }
 }
